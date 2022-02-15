@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Course notes on fully actuated versus underactuated systems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-832-underactuated-robotics-spring-2009/e338b121e92aa7ae95932d0a1d8a80b2_MIT6_832s09_read_ch01.pdf
+file: /media/courses/6-832-underactuated-robotics-spring-2009/e338b121e92aa7ae95932d0a1d8a80b2_MIT6_832s09_read_ch01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Fully Actuated vs. Underactuated Systems
 uid: e338b121-e92a-a7ae-9593-2d0a1d8a80b2

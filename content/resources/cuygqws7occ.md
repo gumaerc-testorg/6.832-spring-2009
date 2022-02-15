@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-832-underactuated-robotics-spring-2009/91b792cbc72c3857f20e55d429465852_CUygqWS7occ.srt
+file: /media/courses/6-832-underactuated-robotics-spring-2009/91b792cbc72c3857f20e55d429465852_CUygqWS7occ.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 91b792cb-c72c-3857-f20e-55d429465852

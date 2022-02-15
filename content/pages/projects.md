@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: aab5d144-d7d4-4c2e-65d0-4c6594966307
 ---

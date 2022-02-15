@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Front matter to a set of course notes on underactuated robotics: learning,
   planning, and control for efficient and agile machines.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-832-underactuated-robotics-spring-2009/0b4b18db9bed2aa71c38259d7502ca64_MIT6_832s09_read_preface.pdf
+file: /media/courses/6-832-underactuated-robotics-spring-2009/0b4b18db9bed2aa71c38259d7502ca64_MIT6_832s09_read_preface.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Underactuated Robotics: Learning, Planning, and Control for Efficient and
   Agile Machines'
