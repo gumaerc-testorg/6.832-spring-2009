@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d49b78fe-f56d-f97f-9681-953c45ae4447
 resourcetype: Document
 title: The Acrobot and Cart-Pole
 uid: 72bc06c4-dc73-315b-f49c-28a81dc2b996

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d49b78fe-f56d-f97f-9681-953c45ae4447
 resourcetype: Document
 title: Fully Actuated vs. Underactuated Systems
 uid: e338b121-e92a-a7ae-9593-2d0a1d8a80b2
