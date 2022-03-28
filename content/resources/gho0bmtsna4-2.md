@@ -5,6 +5,7 @@ file: /media/courses/6-832-underactuated-robotics-spring-2009/e501e5a3b3b25bdfbf
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: e501e5a3-b3b2-5bdf-bf61-ebe80316412d

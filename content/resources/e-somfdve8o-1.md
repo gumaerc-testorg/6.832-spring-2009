@@ -5,6 +5,7 @@ file: /media/courses/6-832-underactuated-robotics-spring-2009/104ffbd6d5cf4475b0
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: 104ffbd6-d5cf-4475-b048-bdf58fb6db34
