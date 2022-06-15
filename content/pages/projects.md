@@ -1,11 +1,16 @@
 ---
 content_type: page
+description: This section provides a description of the final project for the course,
+  a list of project components, and a list of potential project topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
-parent_uid: null
 title: Projects
 uid: aab5d144-d7d4-4c2e-65d0-4c6594966307
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Description

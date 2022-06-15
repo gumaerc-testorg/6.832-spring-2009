@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbooks, course goals, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 05eeed6e-4894-9ca9-bcf6-33811daa98d3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -33,7 +38,7 @@ Students actively engaged in robotics or related research should have all of the
 Textbooks
 ---------
 
-There are no required textbooks for this course. Readings will come from the course notes "Underactuated Robotics: Learning, Planning, and Control for Efficient and Agile Machines." A list of relevant textbooks is given in the {{< resource_link d49b78fe-f56d-f97f-9681-953c45ae4447 "Readings" >}} section.
+There are no required textbooks for this course. Readings will come from the course notes "Underactuated Robotics: Learning, Planning, and Control for Efficient and Agile Machines." A list of relevant textbooks is given in the {{% resource_link d49b78fe-f56d-f97f-9681-953c45ae4447 "Readings" %}} section.
 
 Course Goals
 ------------

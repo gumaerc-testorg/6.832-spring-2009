@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Trajectory Optimization'
 uid: d1d68b43-147d-3942-4cc9-34e35ba7cafc
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Trajectory optimization
 
 **Instructors:** Russell Tedrake
+
+
+

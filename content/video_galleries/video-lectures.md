@@ -1,12 +1,17 @@
 ---
 content_type: video_gallery
+description: This section provides a complete set of video lectures on underactuated
+  robotics.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
-parent_uid: null
 title: Video Lectures
 uid: c2a994b2-faf4-2a33-5457-f769669257e8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 99deb271-fe2e-4226-e28a-8b20f5e5c97b

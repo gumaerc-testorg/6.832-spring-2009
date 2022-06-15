@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Walking'
 uid: 32e36b33-d90e-075d-d422-60afb7af9327
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Walking
 
 **Instructors:** Russell Tedrake
+
+
+

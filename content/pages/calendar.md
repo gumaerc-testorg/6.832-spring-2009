@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, exams,
+  assignments, and project presentations.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 4a053c27-8253-475c-8fc1-aaa62df46b60
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

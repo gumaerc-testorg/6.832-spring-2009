@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Optimal Control of the Double Integrator'
 uid: a8c52f09-66af-d08d-71e7-dcc3a841ab61
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Optimal control of the double integrator
 
 **Instructors:** Russell Tedrake
+
+
+

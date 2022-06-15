@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Swing-up Control of Acrobot and Cart-pole Systems'
 uid: 25938a1d-6922-bc8b-f3b3-f805d087c565
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Swing-up control of acrobot and cart-pole systems
 
 **Instructors:** Russell Tedrake
+
+
+

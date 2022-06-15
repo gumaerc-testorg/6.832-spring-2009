@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for assignment 3.
-file: /media/courses/6-832-underactuated-robotics-spring-2009/370261691f72eba0918062ee9b693428_pendfun.m
+file: /courses/6-832-underactuated-robotics-spring-2009/370261691f72eba0918062ee9b693428_pendfun.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: pendfun.m
 uid: 37026169-1f72-eba0-9180-62ee9b693428
 ---
+This resource is a supporting file for assignment 3.
+

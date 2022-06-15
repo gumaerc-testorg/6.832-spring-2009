@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Trajectory Stabilization and Iterative Linear Quadratic Regulator'
 uid: 599cba6b-04b5-d3ad-509b-166986be2e55
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Trajectory stabilization and iterative linear quadratic regulator (iLQR)
 
 **Instructors:** Russell Tedrake
+
+
+
