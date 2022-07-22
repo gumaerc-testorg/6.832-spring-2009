@@ -5,6 +5,7 @@ file: /courses/6-832-underactuated-robotics-spring-2009/77f2db893aa8b2c9cd04e3ec
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Solution to a problem on the Pontryagin minimum principle.
-

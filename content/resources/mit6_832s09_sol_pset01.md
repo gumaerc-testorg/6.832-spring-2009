@@ -6,6 +6,7 @@ file: /courses/6-832-underactuated-robotics-spring-2009/85643200c49c68ce52c953b2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to a problem set on the definition of underactuated, the simple pendulum, and optimal control of the double integrator.
-

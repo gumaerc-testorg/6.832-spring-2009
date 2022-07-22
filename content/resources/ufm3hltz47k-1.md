@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-832-underactuated-robotics-spring-2009/ae4e1009fab2b75ef403ac54c308a4aa_ufM3HLTZ47k.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

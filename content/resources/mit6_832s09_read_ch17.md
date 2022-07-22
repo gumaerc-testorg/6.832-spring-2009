@@ -7,6 +7,7 @@ file: /courses/6-832-underactuated-robotics-spring-2009/918e59f4891fe97708b6aed1
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Courses notes on stochastic gradient descent algorithms, methods that are robust to stochasticity in the function evaluation, and optimizing a control policy for a system without requiring any model of the plant.
-

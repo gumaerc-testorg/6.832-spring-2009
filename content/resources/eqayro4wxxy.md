@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-832-underactuated-robotics-spring-2009/8e9eb004eac3c8994fbdd6071060dde1_EqAYRo4wXxY.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
