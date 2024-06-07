@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting file for a problem set: the basic Matlab code needed for
   the simulation of the passive SLIP model. '
 file: /courses/6-832-underactuated-robotics-spring-2009/7efa799690f61208d379676d01da7e76_slip.m
+file_size: 3440
 file_type: text/plain
 learning_resource_types:
 - Assignments
