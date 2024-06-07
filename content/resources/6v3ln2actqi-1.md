@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-832-underactuated-robotics-spring-2009/dd18a71f0be893587422acf106e0fc7c_6v3Ln2ACtqI.pdf
+file_size: 124432
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
