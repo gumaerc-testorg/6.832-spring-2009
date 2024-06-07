@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting file for a problem set: solution to a problem on value iteration
   on the double integrator problem.'
 file: /courses/6-832-underactuated-robotics-spring-2009/54207017c3d4928007f396a4333c847f_brick_vi_sol.m
+file_size: 10548
 file_type: text/plain
 learning_resource_types:
 - Assignments

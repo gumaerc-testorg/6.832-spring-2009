@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution to a problem on the Pontryagin minimum principle.
 file: /courses/6-832-underactuated-robotics-spring-2009/77f2db893aa8b2c9cd04e3ec9a3c6769_MIT6_832s09_sol_pset02.pdf
+file_size: 89152
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -4,6 +4,7 @@ description: 'Course notes on simple models of walking robots, the control probl
   that result, and a very brief summary of some of the control solutions described
   in the literature. '
 file: /courses/6-832-underactuated-robotics-spring-2009/6e83e58917c403fdc98d2d96260661ce_MIT6_832s09_read_ch05.pdf
+file_size: 571268
 file_type: application/pdf
 learning_resource_types:
 - Readings
