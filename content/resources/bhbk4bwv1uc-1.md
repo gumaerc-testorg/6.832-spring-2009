@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-832-underactuated-robotics-spring-2009/03826a71d8444b3746d04212aa7c11d6_Bhbk4bWV1Uc.pdf
+file: /ol-ocw-studio-app/courses/6-832-underactuated-robotics-spring-2009/03826a71d8444b3746d04212aa7c11d6_Bhbk4bWV1Uc.pdf
 file_size: 95981
 file_type: application/pdf
 learning_resource_types: []
