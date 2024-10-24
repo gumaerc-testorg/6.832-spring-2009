@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting file for a problem set: a Matlab routine containing the basic
   components to compute and plot the basins of attraction for the simple pendulum.'
-file: /courses/6-832-underactuated-robotics-spring-2009/d5a4582c4cf81ca7a5a1c27b6385930f_calc_basin.m
+file: /ol-ocw-studio-app/courses/6-832-underactuated-robotics-spring-2009/d5a4582c4cf81ca7a5a1c27b6385930f_calc_basin.m
 file_size: 1172
 file_type: text/plain
 learning_resource_types:

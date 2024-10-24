@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a problem set on temporal difference learning.
-file: /courses/6-832-underactuated-robotics-spring-2009/05ec2eaa3ae2ca53483f56a37484787d_markov_td.m
+file: /ol-ocw-studio-app/courses/6-832-underactuated-robotics-spring-2009/05ec2eaa3ae2ca53483f56a37484787d_markov_td.m
 file_size: 29522
 file_type: text/plain
 learning_resource_types:

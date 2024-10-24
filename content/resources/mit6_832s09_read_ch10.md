@@ -2,7 +2,7 @@
 content_type: resource
 description: Course notes on analytical optimal control with the Hamilton-Jacobi-Bellman
   sufficiency theorem.
-file: /courses/6-832-underactuated-robotics-spring-2009/3c209912afeb01312a6781c3f1b5e5c3_MIT6_832s09_read_ch10.pdf
+file: /ol-ocw-studio-app/courses/6-832-underactuated-robotics-spring-2009/3c209912afeb01312a6781c3f1b5e5c3_MIT6_832s09_read_ch10.pdf
 file_size: 328738
 file_type: application/pdf
 learning_resource_types:
