@@ -2,6 +2,7 @@
 content_type: video_gallery
 description: This section provides a complete set of video lectures on underactuated
   robotics.
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -39,8 +40,4 @@ videos:
   - bd13e8c4-8136-99a6-4998-23bfa68d0b0e
   website: 6-832-underactuated-robotics-spring-2009
 ---
-
-Professor Tedrake offered an updated version of this course that [can be accessed through the edX platform](https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0?utm_source=OCW&utm_medium=6-832videos&utm_campaign=OCW).
-
 {{< video-gallery "c2a994b2-faf4-2a33-5457-f769669257e8" >}}
-

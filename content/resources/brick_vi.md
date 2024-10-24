@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting file for a problem set on value iteration on the double integrator.
   This function implements the value iteration algorithm for the brick.
-file: /courses/6-832-underactuated-robotics-spring-2009/5ca16586431e7bd87736a4a77d0eb49d_brick_vi.m
+file: /ol-ocw-studio-app/courses/6-832-underactuated-robotics-spring-2009/5ca16586431e7bd87736a4a77d0eb49d_brick_vi.m
 file_size: 9114
 file_type: text/plain
 learning_resource_types:

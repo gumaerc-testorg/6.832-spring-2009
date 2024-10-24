@@ -3,7 +3,7 @@ content_type: resource
 description: 'Supporting file for a problem set: a Matlab routine containing the basic
   framework for implementing the required controllers for a problem on optimal control
   of the double integrator.'
-file: /courses/6-832-underactuated-robotics-spring-2009/6cd8dc7bdf6282e65e548d792120d8f0_brick_control.m
+file: /ol-ocw-studio-app/courses/6-832-underactuated-robotics-spring-2009/6cd8dc7bdf6282e65e548d792120d8f0_brick_control.m
 file_size: 1983
 file_type: text/plain
 learning_resource_types:
