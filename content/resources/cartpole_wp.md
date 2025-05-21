@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting file for a problem set: the file contains a (nearly) complete
   implementation of the weight perturbation algorithm for the cart-pole swing-up task.'
-file: /ol-ocw-studio-app/courses/6-832-underactuated-robotics-spring-2009/0fd15e22412132efa4ba98c7f1a7e7f5_cartpole_wp.m
+file: /courses/6-832-underactuated-robotics-spring-2009/0fd15e22412132efa4ba98c7f1a7e7f5_cartpole_wp.m
 file_size: 5709
 file_type: text/plain
 learning_resource_types:
