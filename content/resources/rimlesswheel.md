@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a problem set on simulation of a rimless wheel.
-file: /ol-ocw-studio-app/courses/6-832-underactuated-robotics-spring-2009/536b9ea33e7a6efbd8fbf221ba519998_rimlessWheel.m
+file: /courses/6-832-underactuated-robotics-spring-2009/536b9ea33e7a6efbd8fbf221ba519998_rimlessWheel.m
 file_size: 1839
 file_type: text/plain
 learning_resource_types:
