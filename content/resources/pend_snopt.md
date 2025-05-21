@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting file for a problem set: a basic Matlab skeleton implementation
   calling the SNOPT sequential quadratic programming (SQP) package.'
-file: /ol-ocw-studio-app/courses/6-832-underactuated-robotics-spring-2009/bfd3a681f47dde1ce78fe98fcdf5c9ec_pend_snopt.m
+file: /courses/6-832-underactuated-robotics-spring-2009/bfd3a681f47dde1ce78fe98fcdf5c9ec_pend_snopt.m
 file_size: 3090
 file_type: text/plain
 learning_resource_types:
