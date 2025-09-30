@@ -28,7 +28,7 @@ Fantoni, Isabelle, and Rogelio Lozano. _Non-linear Control for Underactuated Mec
 
 Bertsekas, Dimitri P. _Dynamic Programming and Optimal Control_. 3rd ed. Vols. I and II. Nashua, NH: Athena Scientific, 2007. ISBN: 9781886529083 (set).
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262193986) Sutton, Richard S., and Andrew G. Barto. [_Reinforcement Learning: An Introduction_](https://mitpress.mit.edu/9780262193986). Cambridge, MA: MIT Press, 1998. ISBN: 9780262193986.
+{{% resource_link "56bfaea4-a35d-400a-9498-952c02decde0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Sutton, Richard S., and Andrew G. Barto. {{% resource_link "56bfaea4-a35d-400a-9498-952c02decde0" "_Reinforcement Learning: An Introduction_" %}}. Cambridge, MA: MIT Press, 1998. ISBN: 9780262193986.
 
 Bertsekas, Dimitri P., and John N. Tsitsiklis. _Neuro-Dynamic Programming_. Nashua, NH: Athena Scientific, 1996. ISBN: 9781886529106.
 
@@ -389,7 +389,7 @@ Final project presentations
 {{< anchor "Course_Notes" >}}{{< /anchor >}}Course Notes
 --------------------------------------------------------
 
-Selected chapters from the course notes are available below. Updated revisions of the course notes are available [here](http://groups.csail.mit.edu/locomotion/pubs.html).
+Selected chapters from the course notes are available below. Updated revisions of the course notes are available {{% resource_link "725d9eaf-9efe-4c9c-a126-b8e386bd5604" "here" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
